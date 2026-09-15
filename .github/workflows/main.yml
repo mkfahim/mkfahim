@@ -17,3 +17,18 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # GitHub account and rendering configuration
+          user: mkfahim
+          template: classic
+          config_timezone: Asia/Dhaka
+
+          # Isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Programming language activity
+          plugin_languages: yes
+
+          # Notable contributions
+          plugin_notable: yes
