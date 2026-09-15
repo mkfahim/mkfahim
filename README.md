@@ -1,7 +1,8 @@
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
+
 #####  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=8000&color=03FF0083&width=435&lines=Welcome+Here!)](https://git.io/typing-svg)
 
 Hello! I'm Fahim, a BSc student in Electrical and Electronic Engineering (EEE) at Khulna University of Engineering & Technology (KUET).
-
 
 ## About Me
 
@@ -30,12 +31,8 @@ Khulna University of Engineering & Technology
 - **Analog & AMS:** Basic Analog IC Design, Circuit Simulation  
 - **Programming Languages:** SystemVerilog, Verilog, VHDL, Python, C++, C
 
-
 ### **Tools**  
 OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice/Ngspice • Intel Quartus Prime • Xilinx Vivado
-
-
-
 
 ## Current Projects
 
@@ -63,9 +60,6 @@ OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice
   </tr>
 </table>
 
-
-
-
 ## Connect
 
 - [**LinkedIn**](https://www.linkedin.com/in/your-profile)
@@ -73,7 +67,7 @@ OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice
 - **Email:** [**mk.fahim.359@gmail.com**](mailto:mk.fahim.359@gmail.com)
 - [**Personal Website**](https://www.mkfahim.com)
 
-
+<p align="center"> <img src="./github-metrics.svg"alt="GitHub Metrics" width="400"/> </p>
 
 <p align="center">
   <strong>Thank you for visiting my profile!</strong>  
@@ -81,16 +75,5 @@ OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice
   Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkfahim&hide_border=true&background=ffffff&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&dates=000000&sideNums=000000" alt="Contributions" />
-</p>
-
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mkfahim&label=Profile%20views&color=0e75b6&style=flat" alt="mkfahim" /> </p>
 <p align="left"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-
-
-
