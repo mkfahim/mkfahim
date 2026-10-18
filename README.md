@@ -51,12 +51,10 @@ OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice
 <!-- [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@YOUR_HANDLE) -->
 
 <!-- Profile Stats & Navigation -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mkfahim&label=Profile%20views&color=0e75b6&style=flat" alt="mkfahim" />
-</p>
+[![Hits](https://hits.sh/github.com/mkfahim.svg?style=flat-square&label=README%20Views&extraCount=1849)](https://hits.sh/github.com/mkfahim/)
 
-<p align="left">
-  <a href="#top"><img src="https://img.shields.io/badge/↑-back%20to%20top-7E3ACE?style=flat" alt="back to top" /></a>
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/badge/↑-back%20to%20top-7E3ACE?style=flat-square" alt="back to top" /></a>
 </p>
 
 ## Current Projects
