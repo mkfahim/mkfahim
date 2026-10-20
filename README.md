@@ -29,7 +29,28 @@ Khulna University of Engineering & Technology
 
 ### **Tools**  
 OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice/Ngspice • Intel Quartus Prime • Xilinx Vivado
- 
+<!--
+## Featured Projects
+
+### [Project Name]
+
+ <picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://example.com/assets/logo-dark.svg">
+  <img src="https://example.com/assets/logo-light.svg" alt="[Project Name]: [short tagline here]" height="56">
+</picture>
+
+*A short, compelling description of your project goes here. Keep it crisp and valuable for visitors.*
+
+- **[Key benefit #1].** Describe the main problem it solves or the standout feature.
+- **[Key benefit #2].** Explain how it improves workflow, performance, speed, or usability.
+- **[Key benefit #3].** Highlight a unique capability, architecture choice, or developer-focused improvement.
+- **[Additional value].** Mention reliability, portability, integrations, or production-readiness.
+
+`Tech` `Stack` `Badges` `Here` `Example` `Verilog` `Python` `Docker` `Openroad`
+
+[Repository](https://github.com/your-username/your-repo) · [Documentation](https://your-docs-link.example.com) · [Release](https://github.com/your-username/your-repo/releases)
+-->
+
 <!-- Github Metrics & Other Timeline -->
 <p align="center"> <img src="./github-metrics.svg"alt="GitHub Metrics" width="400"/> </p>
 
@@ -56,45 +77,3 @@ OpenROAD • LibreLane • OpenLane • Yosys • ModelSim • Magic • LTspice
 <p align="right">
   <a href="#top"><img src="https://img.shields.io/badge/↑-back%20to%20top-7E3ACE?style=flat-square" alt="back to top" /></a>
 </p>
-
-## Current Projects
-<details open>
-<summary>
-  <b> Project Artemis: AI-Accelerator VLSI Design</b> 
-  <code style="background: #00FF41; color: #000; padding: 2px 8px; border-radius: 3px; font-size: 11px; font-weight: bold; margin-left: 10px;">SystemVerilog</code>
-  <code style="background: #00FF41; color: #000; padding: 2px 8px; border-radius: 3px; font-size: 11px; font-weight: bold;">Yosys</code>
-  <code style="background: #00FF41; color: #000; padding: 2px 8px; border-radius: 3px; font-size: 11px; font-weight: bold;">OpenROAD</code>
-</summary>
-
-<!-- 
-### 📝 Description
-High-performance AI accelerator with advanced RTL optimization for neural network inference, targeting 28nm process with 40% power reduction and 2.5x throughput improvement over baseline designs.
-
-### Objectives
-- ✔️ Implement AI accelerator architecture with 8-core processor array
-- ✔️ Optimize power delivery network for dynamic voltage scaling
-- ✔️ Achieve timing closure at 500MHz with < 5mW power consumption
-
-### 🛠️ Technologies
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=flat-square&logo=data:image/svg%2bxml;base64,)
-![Yosys](https://img.shields.io/badge/Yosys-green?style=flat-square)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 📊 Key Metrics
-| Metric | Details |
-|--------|---------|
-| **Status** | 🔄 In Progress (60% Complete) |
-| **Performance Target** | 500 MHz @ 1.0V |
-| **Power Budget** | < 5mW |
-| **Process Node** | 28nm FinFET |
-| **Team Size** | 👥 2 Members |
-| **Timeline** | ⏰ 6 months (Oct 2024 - Mar 2025) |
-| **Code Contribution** | 💾 3,500+ Lines of SystemVerilog |
-
-### Resources
-- 📂 [Repository: artemis-ai-accelerator](https://github.com/mkfahim/artemis-ai-accelerator)
-- 📄 [Design Document](https://github.com/mkfahim/artemis-ai-accelerator/docs)
-- 🔬 [Research Paper (Pending)](#)
-- 🔗 [Live Demo/Testbench](https://github.com/mkfahim/artemis-ai-accelerator/testbench) -->
